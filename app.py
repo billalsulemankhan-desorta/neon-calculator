@@ -174,5 +174,5 @@ row5[3].button("±", on_click=lambda: click_num("-"))
 
 # Bottom Credit
 st.markdown(
-    "<div class='footer-text'>Built by Amna Sahar</div>", unsafe_allow_html=True
+    "<div class='footer-text'>Built by Bilal hassan</div>", unsafe_allow_html=True
 )
